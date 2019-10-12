@@ -1,0 +1,5 @@
+package com.citt.concurrency.t04;
+
+public class ThreadExample04 {
+
+}

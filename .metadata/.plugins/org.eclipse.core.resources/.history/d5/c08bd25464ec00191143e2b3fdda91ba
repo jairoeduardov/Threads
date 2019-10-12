@@ -1,0 +1,5 @@
+package com.citt.concurrency;
+
+public class ThreadExample01 extends Thread {
+
+}

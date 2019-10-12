@@ -1,0 +1,12 @@
+package com.citt.concurrency.t02;
+
+public class ThreadExample02 extends Thread{
+	public void run() 
+    { 
+         
+            // Displaying the thread that is running 
+            System.out.println ("Thread " + Thread.currentThread().getId() + " is running"); 
+  
+       
+    } 
+}

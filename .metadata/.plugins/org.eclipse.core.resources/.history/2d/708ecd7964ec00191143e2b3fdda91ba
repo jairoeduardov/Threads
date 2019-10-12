@@ -1,0 +1,8 @@
+package com.citt.concurrency;
+
+public class ThreadExample01 extends Thread {
+	private String nombre; 
+	public ThreadExample01(String nombre) {
+		this.nombre = nombre;
+	}
+}
